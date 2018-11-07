@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PHJDemo_Example' do
+  pod 'PHJDemo', :path => '../'
+
+  target 'PHJDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
