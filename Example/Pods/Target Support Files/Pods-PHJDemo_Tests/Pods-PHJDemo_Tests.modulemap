@@ -1,0 +1,6 @@
+framework module Pods_PHJDemo_Tests {
+  umbrella header "Pods-PHJDemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

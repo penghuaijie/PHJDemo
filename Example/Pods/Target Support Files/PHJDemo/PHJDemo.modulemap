@@ -1,0 +1,6 @@
+framework module PHJDemo {
+  umbrella header "PHJDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
